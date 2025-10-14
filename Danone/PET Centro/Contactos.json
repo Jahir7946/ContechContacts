@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Ana Martínez",
+    "numero": "612 345 678"
+  },
+  {
+    "nombre": "Carlos López",
+    "numero": "623 456 789"
+  },
+  {
+    "nombre": "Lucía Fernández",
+    "numero": "634 567 890"
+  },
+  {
+    "nombre": "Javier Gómez",
+    "numero": "645 678 901"
+  },
+  {
+    "nombre": "María Torres",
+    "numero": "656 789 012"
+  },
+  {
+    "nombre": "David Romero",
+    "numero": "667 890 123"
+  },
+  {
+    "nombre": "Sofía Ruiz",
+    "numero": "678 901 234"
+  },
+  {
+    "nombre": "Pablo Navarro",
+    "numero": "689 012 345"
+  },
+  {
+    "nombre": "Elena Castro",
+    "numero": "690 123 456"
+  },
+  {
+    "nombre": "Miguel Hernández",
+    "numero": "601 234 567"
+  }
+]
