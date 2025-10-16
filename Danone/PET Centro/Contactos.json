@@ -36,10 +36,6 @@
     "numero": "690 123 456"
   },
   {
-    "nombre": "Raul Pelon",
-    "numero": "501 432 567"
-  },
-  {
     "nombre": "Maria Cruz",
     "numero": "501 432 587"
   },
@@ -52,10 +48,6 @@
     "numero": "501 432 158"
   },
   {
-    "nombre": "Pakito Cabeza",
-    "numero": "501 772 158"
-  },
-  {
     "nombre": "Don Kike",
     "numero": "511 772 159"
   },
@@ -66,9 +58,5 @@
   {
     "nombre": "Jonathan Piña",
     "numero": "5578521545"
-  },
-  {
-    "nombre": "Nenuko Maniaco",
-    "numero": "5578528845"
   }
 ]
