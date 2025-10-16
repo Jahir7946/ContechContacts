@@ -2,5 +2,61 @@
   {
     "nombre": "Ana Martínez",
     "numero": "612 345 678"
+  },
+  {
+    "nombre": "Carlos López",
+    "numero": "623 456 789"
+  },
+  {
+    "nombre": "Vicente Fernández",
+    "numero": "634 567 890"
+  },
+  {
+    "nombre": "Roberto Gómez",
+    "numero": "645 678 901"
+  },
+  {
+    "nombre": "María Torres",
+    "numero": "656 789 012"
+  },
+  {
+    "nombre": "David Romero",
+    "numero": "667 890 123"
+  },
+  {
+    "nombre": "Sofía Marquez",
+    "numero": "678 901 234"
+  },
+  {
+    "nombre": "Pablo Neruda",
+    "numero": "689 012 345"
+  },
+  {
+    "nombre": "Elena Castro",
+    "numero": "690 123 456"
+  },
+  {
+    "nombre": "Maria Cruz",
+    "numero": "501 432 587"
+  },
+  {
+    "nombre": "Luis Estrada",
+    "numero": "591 432 587"
+  },
+  {
+    "nombre": "Ricardo Flores",
+    "numero": "501 432 158"
+  },
+  {
+    "nombre": "Don Kike",
+    "numero": "511 772 159"
+  },
+  {
+    "nombre": "Fermin Reyes",
+    "numero": "511 772 222"
+  },
+  {
+    "nombre": "Jonathan Piña",
+    "numero": "5578521545"
   }
 ]
