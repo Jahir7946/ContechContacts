@@ -46,8 +46,7 @@
   {
     "nombre": "Luis Estrada",
     "numero": "591 432 587"
-  }
-  ,
+  },
   {
     "nombre": "Ricardo Flores",
     "numero": "501 432 158"
@@ -55,5 +54,9 @@
   {
     "nombre": "Pakito Cabeza",
     "numero": "501 772 158"
+  },
+  {
+    "nombre": "Don Kike",
+    "numero": "511 772 159"
   }
 ]
